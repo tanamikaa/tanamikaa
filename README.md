@@ -1,6 +1,6 @@
 # Hi, I'm Anamika Kumari 👋
 
-I'm a B.Tech Computer Science student at Sitara University, Lucknow.
+I'm a B.Tech Computer Science student at Sitare University, Lucknow.
 I enjoy building things that are actually useful—especially web apps and tools that solve real problems.
 
 Right now, I’m exploring web development, data handling, and a bit of AI, while strengthening my fundamentals in DSA and system design.
@@ -17,10 +17,10 @@ Right now, I’m exploring web development, data handling, and a bit of AI, whil
 ### 🔹 Tech I work with
 
 * **Languages:** Java, Python, C, JavaScript
-* **Web:** HTML, CSS, Flask
-* **Databases:** MySQL, PostgreSQL
+* **Web:** HTML, CSS, Flask, JavaScripts
+* **Databases:** MySQL
 * **Tools:** Git, GitHub
-* **Libraries:** Pandas, NumPy, BeautifulSoup, NLTK, TextBlob
+* **Libraries:** Pandas, NumPy, BeautifulSoup
 
 ---
 
