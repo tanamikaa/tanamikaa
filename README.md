@@ -1,6 +1,6 @@
 # Hi, I'm Anamika Kumari 👋
 <p align="center">
-  <img src="developer_animation.gif" height="250"/>
+  <img src="developer_animations.gif" height="250"/>
 </p>
 I'm a B.Tech Computer Science student at Sitare University, Lucknow.
 I enjoy building things that are actually useful—especially web apps and tools that solve real problems.
