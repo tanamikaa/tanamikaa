@@ -1,3 +1,4 @@
+<img src="developer_animation.gif" width="100%" />
 # Hi, I'm Anamika Kumari 👋
 
 I'm a B.Tech Computer Science student at Sitare University, Lucknow.
