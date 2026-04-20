@@ -65,8 +65,8 @@ Currently, I’m focused on improving my problem-solving skills and building bet
 
 ### 🔹 Connect
 
-* LinkedIn: *(add your link)*
-* GitHub: *(add your link)*
+* LinkedIn: *(https://www.linkedin.com/in/anamika-kumari-9b8154326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)*
+* GitHub: *(https://github.com/tanamikaa)*
 * Email: [su-24013@sitare.org](mailto:su-24013@sitare.org)
 
 ---
