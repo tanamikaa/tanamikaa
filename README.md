@@ -111,9 +111,8 @@ A student-focused project exploring JEE-related college and admission guidance, 
 ## 🤝 Let's Connect
 
 - **GitHub:** [github.com/tanamikaa](https://github.com/tanamikaa)
-- **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
-- **Email:** [YOUR_EMAIL_ADDRESS](mailto:YOUR_EMAIL_ADDRESS)
-- **Portfolio:** [View portfolio](YOUR_PORTFOLIO_URL) *(optional)*
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/anamika-kumari-9b8154326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **Email:** [YOUR_EMAIL_ADDRESS](mailto:tanamika1207@gmail.com)
 
 ---
 
