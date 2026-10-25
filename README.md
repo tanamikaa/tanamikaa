@@ -4,7 +4,7 @@
 
 I enjoy building practical software using web technologies, backend APIs, databases, and AI. I'm strengthening my software engineering fundamentals and looking for opportunities to learn, collaborate, and contribute to real-world projects.
 
-[![GitHub](https://img.shields.io/badge/GitHub-tanamikaa-181717?style=flat&logo=github)](https://github.com/tanamikaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL) [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
+[![GitHub](https://img.shields.io/badge/GitHub-tanamikaa-181717?style=flat&logo=github)](https://github.com/tanamikaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/anamika-kumari-9b8154326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tanamika1207@gmail.com)
 
 ---
 
