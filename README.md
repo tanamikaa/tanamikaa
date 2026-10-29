@@ -112,7 +112,7 @@ A student-focused project exploring JEE-related college and admission guidance, 
 
 - **GitHub:** [github.com/tanamikaa](https://github.com/tanamikaa)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/anamika-kumari-9b8154326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **Email:** [YOUR_EMAIL_ADDRESS](mailto:tanamika1207@gmail.com)
+- **Email:** [tanamika1207@gmail.com](mailto:tanamika1207@gmail.com)
 
 ---
 
